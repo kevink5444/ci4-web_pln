@@ -74,7 +74,7 @@
             <div class="features-width">
               <img src="images/Group12.svg" alt="" class="img-icons">
               <h5 class="py-3">Pasang<br>Baru</h5>
-              <p class="text-muted">Lorem ipsum dolor sit amet, tincidunt vestibulum. Fusce egeabus consectetuer turpis, suspendisse.</p>
+              <p class="text-muted">Layanan permohonan pasang baru listrik secara cepat, mudah, nyaman, dan aman.</p>
               <a href="#"><p class="readmore-link">Readmore</p></a>  
             </div>
           </div>
@@ -82,7 +82,7 @@
             <div class="features-width">
               <img src="images/Group7.svg" alt="" class="img-icons">
               <h5 class="py-3">Ubah<br>Daya</h5>
-              <p class="text-muted">Lorem ipsum dolor sit amet, tincidunt vestibulum. Fusce egeabus consectetuer turpis, suspendisse.</p>
+              <p class="text-muted">Layanan permohonan perubahan daya listrik secara cepat, mudah, nyaman, dan aman.</p>
               <a href="#"><p class="readmore-link">Readmore</p></a>
             </div>
           </div>
@@ -90,7 +90,7 @@
             <div class="features-width">
               <img src="images/Group5.svg" alt="" class="img-icons">
               <h5 class="py-3">Migrasi</h5>
-              <p class="text-muted">Lorem ipsum dolor sit amet, tincidunt vestibulum. Fusce egeabus consectetuer turpis, suspendisse.</p>
+              <p class="text-muted">Layanan migrasi listrik secara cepat, mudah, nyaman, dan ama.</p>
               <a href="#"><p class="readmore-link">Readmore</p></a>
             </div>
           </div>
