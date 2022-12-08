@@ -73,7 +73,7 @@
           <div class="grid-margin d-flex justify-content-start">
             <div class="features-width">
               <img src="images/Group12.svg" alt="" class="img-icons">
-              <h5 class="py-3">Speed<br>Optimisation</h5>
+              <h5 class="py-3">Pasang<br>Baru</h5>
               <p class="text-muted">Lorem ipsum dolor sit amet, tincidunt vestibulum. Fusce egeabus consectetuer turpis, suspendisse.</p>
               <a href="#"><p class="readmore-link">Readmore</p></a>  
             </div>
@@ -81,7 +81,7 @@
           <div class="grid-margin d-flex justify-content-center">
             <div class="features-width">
               <img src="images/Group7.svg" alt="" class="img-icons">
-              <h5 class="py-3">SEO and<br>Backlinks</h5>
+              <h5 class="py-3">Ubah<br>Daya</h5>
               <p class="text-muted">Lorem ipsum dolor sit amet, tincidunt vestibulum. Fusce egeabus consectetuer turpis, suspendisse.</p>
               <a href="#"><p class="readmore-link">Readmore</p></a>
             </div>
@@ -89,7 +89,7 @@
           <div class="grid-margin d-flex justify-content-end">
             <div class="features-width">
               <img src="images/Group5.svg" alt="" class="img-icons">
-              <h5 class="py-3">Content<br>Marketing</h5>
+              <h5 class="py-3">Migrasi</h5>
               <p class="text-muted">Lorem ipsum dolor sit amet, tincidunt vestibulum. Fusce egeabus consectetuer turpis, suspendisse.</p>
               <a href="#"><p class="readmore-link">Readmore</p></a>
             </div>
