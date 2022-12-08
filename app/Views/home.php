@@ -90,7 +90,7 @@
             <div class="features-width">
               <img src="images/Group5.svg" alt="" class="img-icons">
               <h5 class="py-3">Migrasi</h5>
-              <p class="text-muted">Layanan migrasi listrik secara cepat, mudah, nyaman, dan ama.</p>
+              <p class="text-muted">Layanan migrasi listrik secara cepat, mudah, nyaman, dan aman.</p>
               <a href="#"><p class="readmore-link">Readmore</p></a>
             </div>
           </div>
