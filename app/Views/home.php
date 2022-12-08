@@ -35,7 +35,7 @@
             <a class="nav-link" href="#header-section">Beranda <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#features-section">Tentang Kami</a>
+            <a class="nav-link" href="#features-section">About Us</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#digital-marketing-section">Blog</a>  
