@@ -41,7 +41,7 @@
             <a class="nav-link" href="#digital-marketing-section">Blog</a>  
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#feedback-section"></a>
+            <a class="nav-link" href="#feedback-section">Testimoni</a>
           </li>
           <li class="nav-item btn-contact-us pl-4 pl-lg-0">
             <button class="btn btn-info" data-toggle="modal" data-target="#exampleModal">Contact Us</button>
