@@ -57,7 +57,6 @@
       <h6 class="font-weight-normal text-muted pb-3">MyPLN menyediakan Pasang Baru,Migrasi,Perubahan Daya</h6>
       <div>
         <button class="btn btn-opacity-light mr-1">Get started</button>
-        <button class="btn btn-opacity-success ml-1">Learn more</button>
       </div>
       <img src="images/Group171.svg" alt="" class="img-fluid">
     </div>
