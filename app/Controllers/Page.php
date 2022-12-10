@@ -8,4 +8,8 @@ class Page extends BaseController
     {
         echo view("home");
     }
+    public function getstarted()
+    {
+        echo view("getstarted");
+    }
 }
