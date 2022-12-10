@@ -58,7 +58,7 @@
       <div>
         <button class="btn btn-opacity-light mr-1">Get started</button>
       </div>
-      <img src="images/Group171.svg" alt="" class="img-fluid">
+      <img src="images/utama.svg" alt="" class="img-fluid">
     </div>
   </div>
   <div class="content-wrapper">
