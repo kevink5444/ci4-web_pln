@@ -21,13 +21,13 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link" href="<?= base_url('about') ?>">About</a>
+                        <a class="nav-link" href="<?= base_url('about') ?>">Pasang Baru</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="<?= base_url('contact') ?>">Contact</a>
+                        <a class="nav-link" href="<?= base_url('contact') ?>">Perubahan Daya</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="<?= base_url('faqs') ?>">Faqs</a>
+                        <a class="nav-link" href="<?= base_url('faqs') ?>">Migrasi</a>
                     </li>
                 </ul>
             </div>

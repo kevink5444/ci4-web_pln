@@ -12,4 +12,8 @@ class Page extends BaseController
     {
         echo view("getstarted");
     }
+    public function about()
+    {
+        echo view("about");
+    }
 }
