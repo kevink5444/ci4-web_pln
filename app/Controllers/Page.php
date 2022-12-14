@@ -12,8 +12,12 @@ class Page extends BaseController
     {
         echo view("getstarted");
     }
-    public function about()
+    public function perubahandaya()
     {
-        echo view("about");
+        echo view("perubahandaya");
+    }
+    public function migrasi()
+    {
+        echo view("migrasi");
     }
 }
