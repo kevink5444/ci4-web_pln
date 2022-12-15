@@ -8,9 +8,9 @@ class Page extends BaseController
     {
         echo view("home");
     }
-    public function getstarted()
+    public function pasangbaru()
     {
-        echo view("getstarted");
+        echo view("pasangbaru");
     }
     public function perubahandaya()
     {

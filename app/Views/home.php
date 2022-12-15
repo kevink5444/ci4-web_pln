@@ -56,7 +56,7 @@
       <h1 class="font-weight-semibold">Website MyPLN yang memudahkan pelanggan</h1>
       <h6 class="font-weight-normal text-muted pb-3">MyPLN menyediakan Pasang Baru,Migrasi,Perubahan Daya</h6>
       <div>
-       <a href="getstarted"<input type="button" class="btn btn-opacity-light mr-1">Tekan Disini</a></button>
+       <a href="pasangbaru"<input type="button" class="btn btn-opacity-light mr-1">Tekan Disini</a></button>
       </div>
       <img src="images/utama.svg" alt="" class="img-fluid">
     </div>
