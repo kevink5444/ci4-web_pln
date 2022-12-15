@@ -7,6 +7,26 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="<?= base_url('css/bootstrap.min.css') ?>" />
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container">
+            <a class="navbar-brand" href="<?= base_url() ?>">Pasang Baru</a>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="<?= base_url('perubahandaya') ?>">Perubahan Daya</a>
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="<?= base_url('migrasi') ?>">Migrasi</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    
 </head>
 <header class="jumbotron">
         <div class="container">
@@ -21,16 +41,18 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h2 class="h2">1. Pilih Lokasi Pemasangan</h2>
-                <p>Tentukan lokasi pasang baru listrik</p>
-                <h2 class="h2">2. Isi Detail Layanan</h2>
+                <h2 class="h2">1. Pilih ID Pelanggan</h2>
+                <p>Tentukan ID Pelanggan Ubah Daya</p>
+                <h2 class="h2">2. Detail Lokasi</h2>
+                <p>Tentukan lokasi ubah daya listrik</p>
+                <h2 class="h2">3. Pilih Layanan</h2>
                 <p>Tentukan daya yang dibutuhkan, jenis layanan, dan keperluan</p>
-                <h2 class="h2">3. Isi Data SLO</h2>
+                <h2 class="h2">4. Isi data SLO</h2>
                 <p>Lengkapi data SLO</p>
-                <h2 class="h2">4. Pilih Token (khusus prabayar)</h2>
+                <h2 class="h2">5. Pilih Token (khusus prabayar)</h2>
                 <p>Pilih token perdana</p>
-                <h2 class="h2">5. Isi data pelanggan</h2>
-                <p>Lengkapi data diri pemohon layanan</p>
+                <h2 class="h2">6. Isi Data Pelanggan</h2>
+                <p>Lengkapi data diri pemohonan layanan</p>
                 <div>
             </div>
         </div>
