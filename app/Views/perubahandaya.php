@@ -5,7 +5,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h1 class="h1"><center> Layanan Pasang Baru Listrik </center></h1>
+                    <h1 class="h1"><center> Layanan Ubah Daya Listrik </center></h1>
                 </div>
             </div>
         </div>
