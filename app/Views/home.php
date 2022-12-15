@@ -346,9 +346,9 @@
           </div>
           <div class="col-12 col-md-6 col-lg-3 grid-margin">
             <h5 class="pb-2">Sitemap</h5>
-            <a href="http://localhost:8080/getstarted"><p class="m-0 pb-2">Pasang baru</p></a>   
-            <a href="#" ><p class="m-0 pt-1 pb-2">Ubah Daya</p></a> 
-            <a href="#"><p class="m-0 pt-1 pb-2">Migrasi</p></a> 
+            <a href="http://localhost:8080/pasangbaru"><p class="m-0 pb-2">Pasang Baru</p></a>   
+            <a href="http://localhost:8080/perubahandaya" ><p class="m-0 pt-1 pb-2">Ubah Daya</p></a> 
+            <a href="http://localhost:8080/migrasi"><p class="m-0 pt-1 pb-2">Migrasi</p></a> 
           </div>
           <div class="col-12 col-md-6 col-lg-3 grid-margin">
               <h5 class="pb-2">Ikuti Kami</h5>
