@@ -39,7 +39,7 @@ $routes->get('/', 'Page::index');
 $routes->get('/pasangbaru', 'Page::pasangbaru');
 $routes->get('/perubahandaya', 'Page::perubahandaya');
 $routes->get('/migrasi', 'Page::migrasi');
-
+$routes->get('/pelanggan', 'Page::pelanggan');
 /*
  * --------------------------------------------------------------------
  * Additional Routing

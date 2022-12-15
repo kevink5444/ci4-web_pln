@@ -20,4 +20,8 @@ class Page extends BaseController
     {
         echo view("migrasi");
     }
+    public function pelanggan()
+    {
+        echo view("pelanggan");
+    }
 }

@@ -341,8 +341,8 @@
             </div>         
           </div>
           <div class="col-12 col-md-6 col-lg-3 grid-margin">
-            <h5 class="pb-2">Get in Touch</h5>
-            <p class="text-muted">Don’t miss any updates of our new templates and extensions.!</p> 
+            <h5 class="pb-2">MyPLN</h5>
+            <p class="text-muted">Website yang mempermudah pelanggan</p> 
           </div>
           <div class="col-12 col-md-6 col-lg-3 grid-margin">
             <h5 class="pb-2">Sitemap</h5>
@@ -353,10 +353,10 @@
           <div class="col-12 col-md-6 col-lg-3 grid-margin">
               <h5 class="pb-2">Ikuti Kami</h5>
               <div class="d-flex justify-content-center justify-content-md-start">
-                <a href="https://web.facebook.com/cc123pln?_rdc=1&_rdr"><span class="mdi mdi-facebook"></span></a>
-                <a href="#"><span class="mdi mdi-twitter"></span></a>
-                <a href="#"><span class="mdi mdi-instagram"></span></a>
-                <a href="#"><span class="mdi mdi-linkedin"></span></a>
+                <a href="https://web.facebook.com/cc123pln?_rdc=1&_rdr"><img src="images/fb.jpeg" width="50" height="50"<span class="mdi mdi-facebook"></span></a>
+                <a href="https://twitter.com/pln_123"><img src="images/twitter.jpeg" width="50" height="50"<span class="mdi mdi-twitter"></span></a>
+                <a href="https://www.instagram.com/pln123_official/?hl=id"><img src="images/ig.jpeg" width="50" height="50"<span class="mdi mdi-instagram"></span></a>
+                <a href="https://www.youtube.com/channel/UCbTrrbZgbNAjkPdiQ8L3sIQ?app=desktop"><img src="images/youtube.jpeg" width="50" height="50"<span class="mdi mdi-youtube"></span></a>
               </div>
           </div>
         </div>  
