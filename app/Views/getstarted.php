@@ -21,10 +21,10 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link" href="<?= base_url('PerubahanDaya') ?>">Perubahan Daya</a>
+                        <a class="nav-link" href="<?= base_url('perubahandaya') ?>">Perubahan Daya</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="<?= base_url('Migrasi') ?>">Migrasi</a>
+                        <a class="nav-link" href="<?= base_url('migrasi') ?>">Migrasi</a>
                     </li>
                 </ul>
             </div>
@@ -55,8 +55,6 @@
                 <h2 class="h2">5. Isi data pelanggan</h2>
                 <p>Lengkapi data diri pemohon layanan</p>
                 <div>
-                 <button class = "btn-btn-primary">   
-                <a href="getstarted"<input type="button" class="btn btn-opacity-light mr-1">Input Data Pasang Baru</a></button>
             </div>
         </div>
     </div>

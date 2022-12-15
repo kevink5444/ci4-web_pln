@@ -1,6 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MyPLN</title>
 
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="<?= base_url('css/bootstrap.min.css') ?>" />
+</head>
 <header class="jumbotron">
         <div class="container">
             <div class="row">
@@ -25,8 +32,6 @@
                 <h2 class="h2">5. Isi data pelanggan</h2>
                 <p>Lengkapi data diri pemohon layanan</p>
                 <div>
-                 <button class = "btn-btn-primary">   
-                <a href="getstarted"<input type="button" class="btn btn-opacity-light mr-1">Input Data Pasang Baru</a></button>
             </div>
         </div>
     </div>
