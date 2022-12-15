@@ -52,7 +52,7 @@
                 <h2 class="h2">5. Pilih Token (khusus prabayar)</h2>
                 <p>Pilih token perdana</p>
                 <h2 class="h2">6. Isi Data Pelanggan</h2>
-                <p>Lengkapi data diri pemohonan layanan</p>
+                <p>Lengkapi data diri permohonan layanan</p>
                 <div>
             </div>
         </div>
