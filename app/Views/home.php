@@ -35,16 +35,13 @@
             <a class="nav-link" href="#header-section">Beranda <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#features-section">Layanan Pelanggan</a>
+            <a class="nav-link" href="#features-section">Tentang Kami</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#digital-marketing-section">Blog</a>  
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#feedback-section">Testimoni</a>
-          </li>
-          <li class="nav-item btn-contact-us pl-4 pl-lg-0">
-            <button class="btn btn-info" data-toggle="modal" data-target="#exampleModal">Contact Us</button>
           </li>
         </ul>
       </div>
@@ -74,7 +71,7 @@
               <img src="images/pasangbaru.jpg" alt="" class="img-icons">
               <h5 class="py-3">Pasang<br>Baru</h5>
               <p class="text-muted">Layanan permohonan pasang baru listrik secara cepat, mudah, nyaman, dan aman.</p>
-              <a href="#"><p class="readmore-link">Baca Lebih Lanjut</p></a>  
+              <a href="#"><p class="readmore-link">Readmore</p></a>  
             </div>
           </div>
           <div class="grid-margin d-flex justify-content-center">
@@ -82,7 +79,7 @@
               <img src="images/Ubah Daya.jpg" alt="" class="img-icons">
               <h5 class="py-3">Ubah<br>Daya</h5>
               <p class="text-muted">Layanan permohonan perubahan daya listrik secara cepat, mudah, nyaman, dan aman.</p>
-              <a href="#"><p class="readmore-link">Baca Lebih Lanjut</p></a>
+              <a href="#"><p class="readmore-link">Readmore</p></a>
             </div>
           </div>
           <div class="grid-margin d-flex justify-content-end">
@@ -90,7 +87,7 @@
               <img src="images/migrasi.jpg" alt="" class="img-icons">
               <h5 class="py-3">Migrasi</h5>
               <p class="text-muted">Layanan migrasi listrik secara cepat, mudah, nyaman, dan aman.</p>
-              <a href="#"><p class="readmore-link">Baca Lebih Lanjut</p></a>
+              <a href="#"><p class="readmore-link">Readmore</p></a>
             </div>
           </div>
         </div>
