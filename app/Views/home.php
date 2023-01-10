@@ -273,7 +273,7 @@
         </div>  
       </section>
       <footer class="border-top">
-        <p class="text-center text-muted pt-4">Copyright © 2022 - STIKI Malang.</a>All rights reserved.</p>
+        <p class="text-center text-muted pt-4">Copyright © 2022 - 2023  - STIKI Malang.</a>All rights reserved.</p>
       </footer>
       <!-- Modal for Contact - us Button -->
       <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
