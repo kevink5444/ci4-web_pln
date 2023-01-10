@@ -38,7 +38,7 @@
             <a class="nav-link" href="#features-section">Layanan Pelanggan</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#digital-marketing-section">Blog</a>  
+            <a class="nav-link" href="#case-studies-section">Blog</a>  
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#feedback-section">Testimoni</a>
@@ -52,9 +52,6 @@
     <div class="container">
       <h1 class="font-weight-semibold">Website MyPLN yang memudahkan pelanggan</h1>
       <h6 class="font-weight-normal text-muted pb-3">MyPLN menyediakan Pasang Baru,Migrasi,Perubahan Daya</h6>
-      <div>
-       <a href="pasangbaru"<input type="button" class="btn btn-opacity-light mr-1">Tekan Disini</a></button>
-      </div>
       <img src="images/utama.svg" alt="" class="img-fluid">
     </div>
   </div>
@@ -112,7 +109,7 @@
                 </div>   
                 <div class="card-details text-center pt-4">
                     <h6 class="m-0 pb-1">Pasang Baru</h6>
-                    <p>Khusus kostumer baru</p>
+                    <p>Untuk pelanggan baru</p>
                 </div>
                 <div>
        <a href="/pasangbaru/add"><p class="readmore-link">Klik Disini </p></a>
@@ -133,7 +130,7 @@
                 </div>   
                 <div class="card-details text-center pt-4">
                     <h6 class="m-0 pb-1">Ubah daya</h6>
-                    <p>Ubah daya rumah dan industri</p>
+                    <p>Khusus ubah daya rumah dan industri</p>
                 </div>
                 <div>
        <a href="/perubahandaya/add"><p class="readmore-link">Klik Disini </p></a>
@@ -281,7 +278,7 @@
         </div>  
       </section>
       <footer class="border-top">
-        <p class="text-center text-muted pt-4">Copyright © 2022 - STIKI Malang.</a>All rights reserved.</p>
+        <p class="text-center text-muted pt-4">Copyright © 2022 - 2023  - STIKI Malang.</a>All rights reserved.</p>
       </footer>
       <!-- Modal for Contact - us Button -->
       <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
