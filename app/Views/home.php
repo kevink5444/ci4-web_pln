@@ -109,7 +109,7 @@
                 </div>   
                 <div class="card-details text-center pt-4">
                     <h6 class="m-0 pb-1">Pasang Baru</h6>
-                    <p>Khusus kostumer baru</p>
+                    <p>Untuk pelanggan baru</p>
                     <a href="pasangbaru/add"><p class="readmore-link">Klik Disini </p></a>
                 </div>
               </div>
@@ -129,6 +129,7 @@
                 <div class="card-details text-center pt-4">
                     <h6 class="m-0 pb-1">Ubah daya</h6>
                     <p>Khusus ubah daya rumah dan industri</p>
+                    <a href="ubahdaya/add"><p class="readmore-link">Klik Disini </p></a>
                 </div>
               </div>
             </div>
@@ -147,6 +148,7 @@
                 <div class="card-details text-center pt-4">
                     <h6 class="m-0 pb-1">Migrasi</h6>
                     <p>Perpindahan subsidi ke token</p>
+                    <a href="migrasi/add"><p class="readmore-link">Klik Disini </p></a>
                 </div>
               </div>
             </div>
@@ -164,6 +166,7 @@
                 <div class="card-details text-center pt-4">
                     <h6 class="m-0 pb-1">Teknisi</h6>
                     <p>Kontak Teknisi Terdekat</p>
+                    <a href="teknisi"><p class="readmore-link">Klik Disini </p></a>
                 </div>
               </div>
             </div>
