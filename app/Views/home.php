@@ -52,9 +52,6 @@
     <div class="container">
       <h1 class="font-weight-semibold">Website MyPLN yang memudahkan pelanggan</h1>
       <h6 class="font-weight-normal text-muted pb-3">MyPLN menyediakan Pasang Baru,Migrasi,Perubahan Daya</h6>
-      <div>
-       <a href="pasangbaru"<input type="button" class="btn btn-opacity-light mr-1">Tekan Disini</a></button>
-      </div>
       <img src="images/utama.svg" alt="" class="img-fluid">
     </div>
   </div>
@@ -71,7 +68,7 @@
               <img src="images/pasangbaru.jpg" alt="" class="img-icons">
               <h5 class="py-3">Pasang<br>Baru</h5>
               <p class="text-muted">Layanan permohonan pasang baru listrik secara cepat, mudah, nyaman, dan aman.</p>
-              <a href="pasangbaru"><p class="readmore-link">Baca Lebih Lanjut</p></a>  
+              <a href="#"><p class="readmore-link">Baca Lebih </p></a>  
             </div>
           </div>
           <div class="grid-margin d-flex justify-content-center">
