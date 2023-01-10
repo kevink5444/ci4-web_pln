@@ -71,7 +71,7 @@
               <img src="images/pasangbaru.jpg" alt="" class="img-icons">
               <h5 class="py-3">Pasang<br>Baru</h5>
               <p class="text-muted">Layanan permohonan pasang baru listrik secara cepat, mudah, nyaman, dan aman.</p>
-              <a href="#"><p class="readmore-link">Baca Lebih Lanjut</p></a>  
+              <a href="pasangbaru/add"><p class="readmore-link">Baca Lebih Lanjut</p></a>  
             </div>
           </div>
           <div class="grid-margin d-flex justify-content-center">
