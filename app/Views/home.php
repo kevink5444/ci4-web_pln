@@ -35,7 +35,7 @@
             <a class="nav-link" href="#header-section">Beranda <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#features-section">Layanan Pelanggan</a>
+            <a class="nav-link" href="#features-section">Bantuan</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#case-studies-section">Layanan Kami</a>  
@@ -59,7 +59,7 @@
     <div class="container">
       <section class="features-overview" id="features-section" >
         <div class="content-header">
-          <h2>Layanan Pelanggan</h2>
+          <h2>Bantuan</h2>
           <h6 class="section-subtitle text-muted">Memberikan informasi kepada pelanggan untuk membantu dalam melakukan transaksi listrik PLN dengan lebih mudah.<br>Anda dapat memilih beberapa layanan seperti:pasang baru, perubahan daya, dan migrasi.</h6>
         </div>
         <div class="d-md-flex justify-content-between">
