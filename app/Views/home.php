@@ -38,10 +38,10 @@
             <a class="nav-link" href="#features-section">Layanan Pelanggan</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#case-studies-section">Blog</a>  
+            <a class="nav-link" href="#case-studies-section">Layanan Kami</a>  
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#feedback-section">Testimoni</a>
+            <a class="nav-link" href="#feedback-section">Teknisi Kami</a>
           </li>
         </ul>
       </div>
