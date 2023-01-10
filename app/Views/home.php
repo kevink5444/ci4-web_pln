@@ -71,7 +71,7 @@
               <img src="images/pasangbaru.jpg" alt="" class="img-icons">
               <h5 class="py-3">Pasang<br>Baru</h5>
               <p class="text-muted">Layanan permohonan pasang baru listrik secara cepat, mudah, nyaman, dan aman.</p>
-              <a href="pasangbaru/add"><p class="readmore-link">Baca Lebih Lanjut</p></a>  
+              <a href="pasangbaru"><p class="readmore-link">Baca Lebih Lanjut</p></a>  
             </div>
           </div>
           <div class="grid-margin d-flex justify-content-center">
@@ -79,7 +79,7 @@
               <img src="images/Ubah Daya.jpg" alt="" class="img-icons">
               <h5 class="py-3">Ubah<br>Daya</h5>
               <p class="text-muted">Layanan permohonan perubahan daya listrik secara cepat, mudah, nyaman, dan aman.</p>
-              <a href="#"><p class="readmore-link">Baca Lebih Lanjut</p></a>
+              <a href="perubahandaya"><p class="readmore-link">Baca Lebih Lanjut</p></a>
             </div>
           </div>
           <div class="grid-margin d-flex justify-content-end">
@@ -87,7 +87,7 @@
               <img src="images/migrasi.jpg" alt="" class="img-icons">
               <h5 class="py-3">Migrasi</h5>
               <p class="text-muted">Layanan migrasi listrik secara cepat, mudah, nyaman, dan aman.</p>
-              <a href="#"><p class="readmore-link">Baca Lebih Lanjut</p></a>
+              <a href="migrasi"><p class="readmore-link">Baca Lebih Lanjut</p></a>
             </div>
           </div>
         </div>
@@ -114,6 +114,9 @@
                     <h6 class="m-0 pb-1">Pasang Baru</h6>
                     <p>Khusus kostumer baru</p>
                 </div>
+                <div>
+       <a href="/pasangbaru/add"><p class="readmore-link">Klik Disini </p></a>
+      </div>
               </div>
             </div>
           </div>
@@ -130,8 +133,11 @@
                 </div>   
                 <div class="card-details text-center pt-4">
                     <h6 class="m-0 pb-1">Ubah daya</h6>
-                    <p>Khusus ubah daya rumah dan industri</p>
+                    <p>Ubah daya rumah dan industri</p>
                 </div>
+                <div>
+       <a href="/perubahandaya/add"><p class="readmore-link">Klik Disini </p></a>
+      </div>
               </div>
             </div>
           </div>
@@ -150,6 +156,9 @@
                     <h6 class="m-0 pb-1">Migrasi</h6>
                     <p>Perpindahan subsidi ke token</p>
                 </div>
+                <div>
+       <a href="/migrasi/add"><p class="readmore-link">Klik Disini </p></a>
+      </div>
               </div>
             </div>
           </div>
@@ -194,7 +203,7 @@
                   <div class="text-center">
                     <img src="images/face20.jpg" width="89" height="89" alt="" class="img-customer">
                     <div class="content-divider m-auto"></div>
-                    <h6 class="card-title pt-3">Agus Sampurno</h6>
+                    <h6 class="card-title pt-3">Suci Ambarawati</h6>
                     <h6 class="customer-designation text-muted m-0">Teknisi 2</h6>
                   </div>
                 </div>
@@ -214,7 +223,7 @@
                   <div class="text-center">
                     <img src="images/face16.jpg" width="89" height="89" alt="" class="img-customer">
                     <div class="content-divider m-auto"></div>
-                    <h6 class="card-title pt-3">Suci Ambarawati</h6>
+                    <h6 class="card-title pt-3">Agus Sampurno</h6>
                     <h6 class="customer-designation text-muted m-0">Customer Service 1</h6>
                   </div>
                 </div>
@@ -224,7 +233,7 @@
                   <div class="text-center">
                     <img src="images/face1.jpg" width="89" height="89" alt="" class="img-customer">
                     <div class="content-divider m-auto"></div>
-                    <h6 class="card-title pt-3">Anggun Cantika</h6>
+                    <h6 class="card-title pt-3">Michael Untung</h6>
                     <h6 class="customer-designation text-muted m-0">Customer Service 2</h6>
                   </div>
                 </div>
