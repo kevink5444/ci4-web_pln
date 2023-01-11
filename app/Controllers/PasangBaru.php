@@ -9,7 +9,7 @@ class pasangbaru extends BaseController
   $pasangbaru = new PasangBaru();
   $data['pasangbaru'] = $pasangbaru->orderBy('nama', 'asc')->findAll();
   echo view('pasangbaru', $data);
-
+. 
   }
   public function add() 
   {
