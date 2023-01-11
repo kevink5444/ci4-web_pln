@@ -29,23 +29,23 @@
                 </div>    
                 <div class="mb-3">
                     <label for="exampleFormControlInput1" class="form-label">No.Telp</label>
-                    <input class="form-control" type="text" value="" name="notelp">
+                    <input class="form-control" type="text" value="" name="no_telp">
                 </div>
                 <div class="mb-3">
                     <label for="exampleFormControlInput1" class="form-label">Daya</label>
-                    <input class="form-control" type="text" value="" name="Daya">                    
+                    <input class="form-control" type="text" value="" name="daya">                    
                 </div>
                 <div class="mb-3">
                     <label for="exampleFormControlInput1" class="form-label">Golongan</label>
-                    <input class="form-control" type="text" value="" name="Golongan">                    
+                    <input class="form-control" type="text" value="" name="golongan">                    
                 </div>      
                 <div class="mb-3">
                     <label for="exampleFormControlInput1" class="form-label">Token_Awal</label>
-                    <input class="form-control" type="text" value="" name="Token_Awal">                    
+                    <input class="form-control" type="text" value="" name="token_awal">                    
                 </div>
                 <div class="mb-3">
                     <label for="exampleFormControlInput1" class="form-label">ID_Pel</label>
-                    <input class="form-control" type="text" value="" name="Id_Pel">                    
+                    <input class="form-control" type="text" value="" name="idpel">                    
                 </div>                   
                 <button class="btn btn-primary" >Save</button>
                 <a href="<?= site_url("") ?>">Cancel</a>

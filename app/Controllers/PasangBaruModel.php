@@ -2,12 +2,12 @@
 
 namespace App\Controllers;
 
-class PasangBaruModel extends BaseController
+class pasangbaru extends BaseController
 {
   public function index()
   {
   $pasangbaru = new PasangBaruModel();
-  $data['pasangbaru'] = $pasangbaru->orderBy('id_pasangbaru', 'asc')->findAll();
+  $data['pasangbaru'] = $pasangbaru->orderBy('nama', 'asc')->findAll();
   echo view('pasangbaru', $data);
 
   }
@@ -26,7 +26,7 @@ class PasangBaruModel extends BaseController
          'golongan'=>$this->request->getPost("golongan"),
          'token_awal'=>$this->request->getPost("token_awal"),
          'idpel'=>$this->request->getPost("idpel"),
-         sassa
+         
       ]);
 
    }  

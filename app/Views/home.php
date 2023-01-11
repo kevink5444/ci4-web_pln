@@ -35,7 +35,7 @@
             <a class="nav-link" href="#header-section">Beranda <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#features-section">Bantuan</a>
+            <a class="nav-link" href="#features-section">Layanan Pelanggan</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#case-studies-section">Layanan Kami</a>  
@@ -59,7 +59,7 @@
     <div class="container">
       <section class="features-overview" id="features-section" >
         <div class="content-header">
-          <h2>Bantuan</h2>
+          <h2>Layanan Pelanggan</h2>
           <h6 class="section-subtitle text-muted">Memberikan informasi kepada pelanggan untuk membantu dalam melakukan transaksi listrik PLN dengan lebih mudah.<br>Anda dapat memilih beberapa layanan seperti:pasang baru, perubahan daya, dan migrasi.</h6>
         </div>
         <div class="d-md-flex justify-content-between">
@@ -110,7 +110,7 @@
                 <div class="card-details text-center pt-4">
                     <h6 class="m-0 pb-1">Pasang Baru</h6>
                     <p>Untuk pelanggan baru</p>
-                    <a href="pasangbarumodel/add"><p class="readmore-link">Klik Disini </p></a>
+                    <a href="pasangbaru/add"><p class="readmore-link">Klik Disini </p></a>
                 </div>
               </div>
             </div>
@@ -129,7 +129,7 @@
                 <div class="card-details text-center pt-4">
                     <h6 class="m-0 pb-1">Ubah daya</h6>
                     <p>Khusus ubah daya rumah dan industri</p>
-                    <a href="ubahdaya/add"><p class="readmore-link">Klik Disini </p></a>
+                    <a href="/perubahandaya/add"><p class="readmore-link">Klik Disini </p></a>
                 </div>
               </div>
             </div>
@@ -148,7 +148,7 @@
                 <div class="card-details text-center pt-4">
                     <h6 class="m-0 pb-1">Migrasi</h6>
                     <p>Perpindahan subsidi ke token</p>
-                    <a href="migrasi/add"><p class="readmore-link">Klik Disini </p></a>
+                    <a href="/migrasi/add"><p class="readmore-link">Klik Disini </p></a>
                 </div>
               </div>
             </div>
@@ -166,7 +166,6 @@
                 <div class="card-details text-center pt-4">
                     <h6 class="m-0 pb-1">Teknisi</h6>
                     <p>Kontak Teknisi Terdekat</p>
-                    <a href="teknisi"><p class="readmore-link">Klik Disini </p></a>
                 </div>
               </div>
             </div>
@@ -195,7 +194,7 @@
                   <div class="text-center">
                     <img src="images/face20.jpg" width="89" height="89" alt="" class="img-customer">
                     <div class="content-divider m-auto"></div>
-                    <h6 class="card-title pt-3">Agus Sampurno</h6>
+                    <h6 class="card-title pt-3">Suci Ambarawati</h6>
                     <h6 class="customer-designation text-muted m-0">Teknisi 2</h6>
                   </div>
                 </div>
@@ -215,7 +214,7 @@
                   <div class="text-center">
                     <img src="images/face16.jpg" width="89" height="89" alt="" class="img-customer">
                     <div class="content-divider m-auto"></div>
-                    <h6 class="card-title pt-3">Suci Ambarawati</h6>
+                    <h6 class="card-title pt-3">Agus Sampurno</h6>
                     <h6 class="customer-designation text-muted m-0">Customer Service 1</h6>
                   </div>
                 </div>
@@ -225,7 +224,7 @@
                   <div class="text-center">
                     <img src="images/face1.jpg" width="89" height="89" alt="" class="img-customer">
                     <div class="content-divider m-auto"></div>
-                    <h6 class="card-title pt-3">Anggun Cantika</h6>
+                    <h6 class="card-title pt-3">Michael Untung</h6>
                     <h6 class="customer-designation text-muted m-0">Customer Service 2</h6>
                   </div>
                 </div>
