@@ -6,7 +6,7 @@ class pasangbaru extends BaseController
 {
   public function index()
   {
-  $pasangbaru = new PasangBaruModel();
+  $pasangbaru = new PasangBaru();
   $data['pasangbaru'] = $pasangbaru->orderBy('nama', 'asc')->findAll();
   echo view('pasangbaru', $data);
 
@@ -16,7 +16,7 @@ class pasangbaru extends BaseController
 	return view('add');
   }
   public function create() {
-      $pasangbaru = new PasangBaruModel();
+      $pasangbaru = new PasangBaru();
 
       $result = $pasangbaru->insert([
          'nama'=>$this->request->getPost("nama"),

@@ -17,7 +17,7 @@
 
             <div class="card-body">
                 
-            <?= form_open('/pasangbarumodel/create') ?>
+            <?= form_open('/pasangbaru/create') ?>
 
             <div class="mb-3">
                     <label for="exampleFormControlInput1" class="form-label">Nama</label>
