@@ -2,7 +2,7 @@
 
 namespace App\Controllers;
 
-class pasangbaru extends BaseController
+class PasangBaruModel extends BaseController
 {
   public function index()
   {
