@@ -110,7 +110,7 @@
                 <div class="card-details text-center pt-4">
                     <h6 class="m-0 pb-1">Pasang Baru</h6>
                     <p>Untuk pelanggan baru</p>
-                    <a href="/pasangbaru/add"><p class="readmore-link">Klik Disini </p></a> 
+                    <a href="pasangbaru/add"><p class="readmore-link">Klik Disini </p></a>
                 </div>
               </div>
             </div>
