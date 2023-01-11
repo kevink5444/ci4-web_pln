@@ -30,6 +30,9 @@ class pasangbaru extends BaseController
          'idpel'=>$this->request->getPost("idpel"),
          
       ]);
+      if($result==true) {
+        return redirect()->to("");
+     }
 
   }
 }
