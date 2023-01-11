@@ -17,15 +17,21 @@
                     <tr>
                         <th>Nama</th>
                         <th>Alamat</th>
+                        <th>No_Telp</th>
+                        <th>Daya</th>
                         <th>Golongan</th>
-                        <th>ID_Pelanggan</th>
+                        <th>Token_Awal</th>
+                        <th>idpel</th>
                     </tr>
                     <?php
                     foreach ($pelanggan as $row) : ?>
                         <tr>
                             <td><?php echo $row->nama; ?></td>
                             <td><?php echo $row->alamat; ?></td>
+                            <td><?php echo $row->no_telp; ?></td>
+                            <td><?php echo $row->daya; ?></td>
                             <td><?php echo $row->golongan; ?></td>
+                            <td><?php echo $row->token_awal; ?></td>
                             <td><?php echo $row->id_pelanggan; ?></td>
                         </tr>
                     <?php endforeach; ?>
