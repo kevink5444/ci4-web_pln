@@ -26,7 +26,7 @@ class PasangBaruModel extends BaseController
          'golongan'=>$this->request->getPost("golongan"),
          'token_awal'=>$this->request->getPost("token_awal"),
          'idpel'=>$this->request->getPost("idpel"),
-         
+         sassa
       ]);
 
    }  
