@@ -35,7 +35,7 @@
             <a class="nav-link" href="#header-section">Beranda <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#features-section">Bantuan</a>
+            <a class="nav-link" href="#features-section">Layanan Pelanggan</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#case-studies-section">Layanan Kami</a>  
@@ -59,7 +59,7 @@
     <div class="container">
       <section class="features-overview" id="features-section" >
         <div class="content-header">
-          <h2>Bantuan</h2>
+          <h2>Layanan Pelanggan</h2>
           <h6 class="section-subtitle text-muted">Memberikan informasi kepada pelanggan untuk membantu dalam melakukan transaksi listrik PLN dengan lebih mudah.<br>Anda dapat memilih beberapa layanan seperti:pasang baru, perubahan daya, dan migrasi.</h6>
         </div>
         <div class="d-md-flex justify-content-between">
@@ -110,10 +110,8 @@
                 <div class="card-details text-center pt-4">
                     <h6 class="m-0 pb-1">Pasang Baru</h6>
                     <p>Untuk pelanggan baru</p>
+                    <a href="/pasangbaru/add"><p class="readmore-link">Klik Disini </p></a> 
                 </div>
-                <div>
-       <a href="/pasangbaru/add"><p class="readmore-link">Klik Disini </p></a>
-      </div>
               </div>
             </div>
           </div>
@@ -131,10 +129,8 @@
                 <div class="card-details text-center pt-4">
                     <h6 class="m-0 pb-1">Ubah daya</h6>
                     <p>Khusus ubah daya rumah dan industri</p>
+                    <a href="/perubahandaya/add"><p class="readmore-link">Klik Disini </p></a>
                 </div>
-                <div>
-       <a href="/perubahandaya/add"><p class="readmore-link">Klik Disini </p></a>
-      </div>
               </div>
             </div>
           </div>
@@ -152,10 +148,8 @@
                 <div class="card-details text-center pt-4">
                     <h6 class="m-0 pb-1">Migrasi</h6>
                     <p>Perpindahan subsidi ke token</p>
+                    <a href="/migrasi/add"><p class="readmore-link">Klik Disini </p></a>
                 </div>
-                <div>
-       <a href="/migrasi/add"><p class="readmore-link">Klik Disini </p></a>
-      </div>
               </div>
             </div>
           </div>

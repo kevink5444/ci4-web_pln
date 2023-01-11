@@ -2,6 +2,8 @@
 
 namespace App\Controllers;
 
+use App\Models\PasangBaruModel;
+
 class pasangbaru extends BaseController
 {
   public function index()
@@ -26,8 +28,8 @@ class pasangbaru extends BaseController
          'golongan'=>$this->request->getPost("golongan"),
          'token_awal'=>$this->request->getPost("token_awal"),
          'idpel'=>$this->request->getPost("idpel"),
-         trait_exists
+         
       ]);
 
-   }  
+  }
 }
