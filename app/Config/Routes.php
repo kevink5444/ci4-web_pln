@@ -42,7 +42,7 @@ $routes->get('/pasangbaru', 'Page::pasangbaru');
 $routes->get('/perubahandaya', 'Page::perubahandaya');
 $routes->get('/migrasi', 'Page::migrasi');
 $routes->get('/pelanggan', 'Page::pelanggan');
-
+$routes->get('/pasangbarumodel', 'pasangbarumodel');
 $routes->get('/pasangbarumodel/add', 'pasangbarumodel::add');
 $routes->post('/pasangbarumodel/create', 'pasangbarumodel::create');
 

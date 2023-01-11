@@ -7,7 +7,7 @@ class PasangBaruModel extends BaseController
   public function index()
   {
   $pasangbaru = new PasangBaruModel();
-  $data['pasangbaru'] = $pasangbaru->orderBy('nama', 'asc')->findAll();
+  $data['pasangbaru'] = $pasangbaru->orderBy('id_pasangbaru', 'asc')->findAll();
   echo view('pasangbaru', $data);
 
   }
